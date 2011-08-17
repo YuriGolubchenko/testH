@@ -28,4 +28,4 @@ gem 'rails', '3.0.4'
 #   gem 'webrat'
 # end
 
-gem 'ci_reporter'  qwe
+gem 'ci_reporter'  qw
