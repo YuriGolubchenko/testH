@@ -28,3 +28,4 @@ gem 'rails', '3.0.4'
 #   gem 'webrat'
 # end
 #URL="http://193.108.249.83:3010/job/testH/build"
+
